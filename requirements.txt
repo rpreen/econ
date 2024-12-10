@@ -1,0 +1,6 @@
+matplotlib
+notebook
+openpyxl
+pandas
+pre-commit
+statsmodels
