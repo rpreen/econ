@@ -7,3 +7,4 @@ __pycache__/
 venv
 
 !halifax_hpi.csv
+!rightmove_hpi.csv
