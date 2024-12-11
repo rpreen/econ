@@ -1,3 +1,3 @@
 # Economics data analysis
 
-Some exploration of Bank of England, ONS, Halifax HPI, and Nationwide HPI data.
+Some exploration of Bank of England, ONS, Halifax, Nationwide, and Rightmove data.
