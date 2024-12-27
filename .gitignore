@@ -8,3 +8,4 @@ venv
 
 !data/*.csv
 data/hmlr*.csv
+data/unemployment*.csv
